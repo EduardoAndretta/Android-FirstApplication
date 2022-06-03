@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main2-1.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main2e1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main2e2.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main2e3.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main3e1.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main3e2.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main3e3.xml" value="0.16666666666666666" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main4.xml" value="0.25" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main5.xml" value="0.36102564102564105" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main6.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main7.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main8.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_main9.xml" value="0.16847826086956522" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/activity_maina.xml" value="0.1" />
+        <entry key="..\:/Aline - AndroidStuido/FirstAplicattion/app/src/main/res/layout/gdfrrgbdfsgfdsg.xml" value="0.1" />
+        <entry key="..\:/Users/aluno.etec/AndroidStudioProjects/FirstAplicattion/app/src/main/res/drawable/backgroundimage.xml" value="0.196" />
+        <entry key="..\:/Users/aluno.etec/AndroidStudioProjects/FirstAplicattion/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/aluno.etec/AndroidStudioProjects/FirstAplicattion/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
